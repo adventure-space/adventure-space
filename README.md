@@ -1,4 +1,4 @@
-<p align="center"><img src="https://sun9-61.userapi.com/impf/c622618/v622618453/4b824/hCtrDctieaU.jpg?size=604x332&quality=96&sign=fb78d94bdeae570f65793e5a03def93c&c_uniq_tag=dditLYFB_khD7l47zAvLuV3AQiKeyYtmfUdD-Rod_Wg&type=album"></p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=300&color=7EF7D1&background=181232F2&center=true&vCenter=true&width=1000&height=100&lines=Hi%2C+stranger!;Welcome+to+my+space+;Do+you+like+tea%3F)](https://git.io/typing-svg)
 
 <h1 align="center">Приветствую вас, странник! Меня зовут Варвара</h1>
 <p>Я программирую с 2020 года, за это время успела поработать с различными технологиями, Создавала игры и сайты, анализировала и собирала базы данных. Увлекаюсь кибербезопасность и ctf, особенно люблю криптографию, даже завела блокнот различных шифров.</p>
@@ -27,4 +27,4 @@
 
 - ⚡ Fun fact **I like tea**
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adventure-space&show_icons=true&theme=merko&locale=en&layout=compact" alt="adventure-space" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adventure-space&layout=pie&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
