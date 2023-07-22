@@ -10,10 +10,12 @@
 <img src="https://img.shields.io/badge/Dotnet-00082E?logo=Dotnet&logoColor=F8F8FF"> </p>
 
 <p><img src="https://img.shields.io/badge/Python-00082E?logo=Python&logoColor=F8F8FF">
+<img src="https://img.shields.io/badge/Numpy-00082E?logo=Numpy&logoColor=F8F8FF">
 <img src="https://img.shields.io/badge/Pandas-00082E?logo=Pandas&logoColor=F8F8FF">
 <img src="https://img.shields.io/badge/Selenium-00082E?logo=Selenium&logoColor=F8F8FF"> </p>
 
-<img src="https://img.shields.io/badge/Mysql-00082E?logo=Mysql&logoColor=F8F8FF">
+<p><img src="https://img.shields.io/badge/Mysql-00082E?logo=Mysql&logoColor=F8F8FF">
+  <img src="https://img.shields.io/badge/Mongodb-00082E?logo=Mongodb&logoColor=F8F8FF"></p>
 
 <p><img src="https://img.shields.io/badge/Javascript-00082E?logo=Javascript&logoColor=F8F8FF">
 <img src="https://img.shields.io/badge/Css3-00082E?logo=Css3&logoColor=F8F8FF">
